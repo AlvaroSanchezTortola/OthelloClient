@@ -1,0 +1,14 @@
+{
+  "name": "othelloclient",
+  "version": "1.0.0",
+  "description": "client side for othello board game",
+  "main": "client.js",
+  "scripts": {
+    "test": "node client.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "socket.io": "^2.1.0"
+  }
+}
